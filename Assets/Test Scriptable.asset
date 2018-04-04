@@ -9,6 +9,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 92ca96b34f69341439dfc0764584ff13, type: 3}
-  m_Name: New Test Scriptable
+  m_Name: Test Scriptable
   m_EditorClassIdentifier: 
-  i: 05000000020000000300000000000000000000000000000000000000e8030000
+  i: 0a00000005000000020000000300000000000000000000000000000000000000e8030000
